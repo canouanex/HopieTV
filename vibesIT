@@ -1,0 +1,2165 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC EAST Local"  group-title="Unsorted",ABC EAST Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38699.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS EAST Local"  group-title="Unsorted",CBS EAST Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/36594.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC EAST Local"  group-title="Unsorted",NBC EAST Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/36592.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX EAST Local"  group-title="Unsorted",FOX EAST Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/36593.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC WEST Local"  group-title="Unsorted",ABC WEST Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/34340.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WEST Local"  group-title="Unsorted",NBC WEST Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/31643.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WEST Local"  group-title="Unsorted",CBS WEST Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/31644.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WEST Local"  group-title="Unsorted",FOX WEST Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/31645.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC EAST Low BW"  group-title="Unsorted",ABC EAST Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/77487.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS EAST Low BW"  group-title="Unsorted",CBS EAST Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/77486.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX EAST Low BW"  group-title="Unsorted",FOX EAST Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/77484.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC EAST Low BW"  group-title="Unsorted",NBC EAST Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/77485.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC WEST Low BW"  group-title="Unsorted",ABC WEST Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/77483.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WEST Low BW"  group-title="Unsorted",CBS WEST Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/77481.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WEST Low BW"  group-title="Unsorted",FOX WEST Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/77480.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WEST Low BW"  group-title="Unsorted",NBC WEST Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/77482.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN Local (East Server)"  group-title="Unsorted",ESPN Local (East Server)
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1262.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN Local (West Server)"  group-title="Unsorted",ESPN Local (West Server)
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/86502.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN Backup"  group-title="Unsorted",ESPN Backup
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1709.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN Low BW"  group-title="Unsorted",ESPN Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/77479.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN2 Local"  group-title="Unsorted",ESPN2 Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95868.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN2 Low BW"  group-title="Unsorted",ESPN2 Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95869.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN NEWS Local"  group-title="Unsorted",ESPN NEWS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1275.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN U Local"  group-title="Unsorted",ESPN U Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1274.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN CLASSIC Local"  group-title="Unsorted",ESPN CLASSIC Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95883.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS 1 Local"  group-title="Unsorted",FOX SPORTS 1 Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1367.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS 2 Local"  group-title="Unsorted",FOX SPORTS 2 Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38483.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SOCCER PLUS Local"  group-title="Unsorted",FOX SOCCER PLUS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/33472.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS SPORTS HQ Local"  group-title="Unsorted",CBS SPORTS HQ Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/99477.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL NETWORK Local"  group-title="Unsorted",NFL NETWORK Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1402.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBA TV Local"  group-title="Unsorted",NBA TV Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/29485.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MLB NETWORK Local"  group-title="Unsorted",MLB NETWORK Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1389.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NHL NETWORK Local"  group-title="Unsorted",NHL NETWORK Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1612.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ELEVEN SPORTS Local"  group-title="Unsorted",ELEVEN SPORTS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/86505.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FANTASY SPORTS NETWORK"  group-title="Unsorted",FANTASY SPORTS NETWORK
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/40033.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVG"  group-title="Unsorted",TVG
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/35449.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVG 2 Local"  group-title="Unsorted",TVG 2 Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/97589.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FREESPORTS | VIP"  group-title="Unsorted",FREESPORTS | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98772.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PREMIER SPORTS 1 | VIP"  group-title="Unsorted",PREMIER SPORTS 1 | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98771.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PREMIER SPORTS 2 | VIP"  group-title="Unsorted",PREMIER SPORTS 2 | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98770.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FREESPORTS"  group-title="Unsorted",FREESPORTS
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96973.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PREMIER SPORTS 1"  group-title="Unsorted",PREMIER SPORTS 1
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96972.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PREMIER SPORTS 2"  group-title="Unsorted",PREMIER SPORTS 2
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96971.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UFC FIGHT PASS"  group-title="Unsorted",UFC FIGHT PASS
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95860.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UFC FIGHT PASS 2"  group-title="Unsorted",UFC FIGHT PASS 2
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96165.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UFC FIGHT PASS 3"  group-title="Unsorted",UFC FIGHT PASS 3
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96166.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UFC FIGHT PASS 4"  group-title="Unsorted",UFC FIGHT PASS 4
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96167.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UFC TV"  group-title="Unsorted",UFC TV
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/33843.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WWE"  group-title="Unsorted",WWE
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/36372.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VEGAS STATS INFO NETWORK (VSiN) Local"  group-title="Unsorted",VEGAS STATS INFO NETWORK (VSiN) Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96969.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GOLF CHANNEL Local"  group-title="Unsorted",GOLF CHANNEL Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1479.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBCSN Local"  group-title="Unsorted",NBCSN Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1396.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ACC NETWORK Local"  group-title="Unsorted",ACC NETWORK Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98754.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BIG TEN NETWORK Local"  group-title="Unsorted",BIG TEN NETWORK Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1467.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BTN 2 Local"  group-title="Unsorted",BTN 2 Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/86541.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BTN 3 Local"  group-title="Unsorted",BTN 3 Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/86542.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BTN 4 Local"  group-title="Unsorted",BTN 4 Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/86543.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="LONGHORN NETWORK Local"  group-title="Unsorted",LONGHORN NETWORK Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/34341.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SEC NETWORK Local"  group-title="Unsorted",SEC NETWORK Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1419.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pac-12 NETWORK (US)"  group-title="Unsorted",Pac-12 NETWORK (US)
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1413.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pac-12 ARIZONA"  group-title="Unsorted",Pac-12 ARIZONA
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1409.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pac-12 WASHINGTON"  group-title="Unsorted",Pac-12 WASHINGTON
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1415.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pac-12 OREGON"  group-title="Unsorted",Pac-12 OREGON
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1414.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pac-12 LOS ANGELES Local"  group-title="Unsorted",Pac-12 LOS ANGELES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1411.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pac-12 BAY AREA"  group-title="Unsorted",Pac-12 BAY AREA
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1410.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PAC-12 MOUNTAIN"  group-title="Unsorted",PAC-12 MOUNTAIN
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1596.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX COLLEGE ATLANTIC Local"  group-title="Unsorted",FOX COLLEGE ATLANTIC Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/33483.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX COLLEGE CENTRAL Local"  group-title="Unsorted",FOX COLLEGE CENTRAL Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/33484.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX COLLEGE PACIFIC Local"  group-title="Unsorted",FOX COLLEGE PACIFIC Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/36266.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS ARIZONA Local"  group-title="Unsorted",FOX SPORTS ARIZONA Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/33761.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS ASIA 1 (HK | THAI)"  group-title="Unsorted",FOX SPORTS ASIA 1 (HK | THAI)
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/97685.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS ASIA 1 (PHIL)"  group-title="Unsorted",FOX SPORTS ASIA 1 (PHIL)
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/97684.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS ASIA 1 (SING)"  group-title="Unsorted",FOX SPORTS ASIA 1 (SING)
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/97683.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS ASIA 2"  group-title="Unsorted",FOX SPORTS ASIA 2
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/97682.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS ASIA 3"  group-title="Unsorted",FOX SPORTS ASIA 3
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/97681.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS RACING | VIP"  group-title="Unsorted",FOX SPORTS RACING | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/99601.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS CAROLINAS Local"  group-title="Unsorted",FOX SPORTS CAROLINAS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/36274.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS DETROIT Local"  group-title="Unsorted",FOX SPORTS DETROIT Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/33759.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS INDIANA Local"  group-title="Unsorted",FOX SPORTS INDIANA Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/88267.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS FLORIDA Local"  group-title="Unsorted",FOX SPORTS FLORIDA Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/33758.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS KANSAS CITY Local"  group-title="Unsorted",FOX SPORTS KANSAS CITY Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96170.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS MID WEST Local"  group-title="Unsorted",FOX SPORTS MID WEST Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/33756.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS NEW ORLEANS Local"  group-title="Unsorted",FOX SPORTS NEW ORLEANS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/36272.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS NORTH Local"  group-title="Unsorted",FOX SPORTS NORTH Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/33755.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS OHIO Local"  group-title="Unsorted",FOX SPORTS OHIO Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/33754.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS OHIO PLUS Local"  group-title="Unsorted",FOX SPORTS OHIO PLUS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/84649.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS OKLAHOMA Local"  group-title="Unsorted",FOX SPORTS OKLAHOMA Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89131.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS PRIME TICKET Local"  group-title="Unsorted",FOX SPORTS PRIME TICKET Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/36570.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS SAN DIEGO Local"  group-title="Unsorted",FOX SPORTS SAN DIEGO Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/36279.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS SOUTH Local"  group-title="Unsorted",FOX SPORTS SOUTH Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/33751.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS SE Local"  group-title="Unsorted",FOX SPORTS SE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/33750.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS SW  Local"  group-title="Unsorted",FOX SPORTS SW  Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/33749.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS SOUTHWEST PLUS"  group-title="Unsorted",FOX SPORTS SOUTHWEST PLUS
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/36277.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS SUN Local"  group-title="Unsorted",FOX SPORTS SUN Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/33748.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS TIME OHIO Local"  group-title="Unsorted",FOX SPORTS TIME OHIO Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/91157.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS WEST Local"  group-title="Unsorted",FOX SPORTS WEST Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/33746.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS WISCONSIN Local"  group-title="Unsorted",FOX SPORTS WISCONSIN Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/33745.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS YES NETWORK Local"  group-title="Unsorted",FOX SPORTS YES NETWORK Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/33762.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX DEPORTES Local"  group-title="Unsorted",FOX DEPORTES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/36267.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MASN Local"  group-title="Unsorted",MASN Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/97420.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MASN 2 Local"  group-title="Unsorted",MASN 2 Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/97421.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MSG"  group-title="Unsorted",MSG
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/33474.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MSG +"  group-title="Unsorted",MSG +
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38593.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SNY Local"  group-title="Unsorted",SNY Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38440.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NESN Local"  group-title="Unsorted",NESN Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/35508.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NESN PLUS Local"  group-title="Unsorted",NESN PLUS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95016.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AT&T SPORTSNET SOUTHWEST"  group-title="Unsorted",AT&T SPORTSNET SOUTHWEST
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96149.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SPECTRUM SPORTSNET"  group-title="Unsorted",SPECTRUM SPORTSNET
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89362.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SPORTSNET L.A."  group-title="Unsorted",SPORTSNET L.A.
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/59601.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBCSN BAY AREA Local"  group-title="Unsorted",NBCSN BAY AREA Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1730.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBCSN BOSTON Local"  group-title="Unsorted",NBCSN BOSTON Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1732.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBCSN CALIFORNIA Local"  group-title="Unsorted",NBCSN CALIFORNIA Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/35437.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBCSN CHICAGO Local"  group-title="Unsorted",NBCSN CHICAGO Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1731.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBCSN NORTH WEST Local"  group-title="Unsorted",NBCSN NORTH WEST Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1733.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBCSN PHILLY Local"  group-title="Unsorted",NBCSN PHILLY Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1734.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBCSN PHILLY +"  group-title="Unsorted",NBCSN PHILLY +
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1735.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBCSN WASHINGTON Local"  group-title="Unsorted",NBCSN WASHINGTON Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/81822.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS SPORTS NETWORK Local"  group-title="Unsorted",CBS SPORTS NETWORK Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1281.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WEST OHIO SPORTS NETWORK Local"  group-title="Unsorted",WEST OHIO SPORTS NETWORK Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96967.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TENNIS CHANNEL Local"  group-title="Unsorted",TENNIS CHANNEL Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/31209.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STADIUM Local"  group-title="Unsorted",STADIUM Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89136.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STADIUM 1 Local"  group-title="Unsorted",STADIUM 1 Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89137.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STADIUM 2 Local"  group-title="Unsorted",STADIUM 2 Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89138.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STADIUM 3 Local"  group-title="Unsorted",STADIUM 3 Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89139.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN College Sports Extra 1"  group-title="Unsorted",ESPN College Sports Extra 1
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/85262.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN College Sports Extra 2"  group-title="Unsorted",ESPN College Sports Extra 2
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/85263.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN College Sports Extra 3"  group-title="Unsorted",ESPN College Sports Extra 3
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/85264.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN College Sports Extra 4"  group-title="Unsorted",ESPN College Sports Extra 4
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/85265.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN College Sports Extra 5"  group-title="Unsorted",ESPN College Sports Extra 5
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/85266.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN College Sports Extra 6"  group-title="Unsorted",ESPN College Sports Extra 6
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/85267.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN College Sports Extra 7"  group-title="Unsorted",ESPN College Sports Extra 7
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/85268.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN College Sports Extra 8"  group-title="Unsorted",ESPN College Sports Extra 8
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/85269.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FIGHT NETWORK Local"  group-title="Unsorted",FIGHT NETWORK Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/29193.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Box Nation HD (UK)"  group-title="Unsorted",Box Nation HD (UK)
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1380.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BT SPORTS 1 | VIP"  group-title="Unsorted",BT SPORTS 1 | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89214.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BT SPORTS 2 | VIP"  group-title="Unsorted",BT SPORTS 2 | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89213.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BT SPORTS 3 | VIP"  group-title="Unsorted",BT SPORTS 3 | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89212.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BT SPORTS EPSN"  group-title="Unsorted",BT SPORTS EPSN
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89211.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORTS ACTION FHD (E) | VIP"  group-title="Unsorted",SKY SPORTS ACTION FHD (E) | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98789.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORTS ACTION hd (E) | VIP"  group-title="Unsorted",SKY SPORTS ACTION hd (E) | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98788.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORTS ARENA FHD (E) | VIP"  group-title="Unsorted",SKY SPORTS ARENA FHD (E) | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98787.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORTS ARENA hd (E) | VIP"  group-title="Unsorted",SKY SPORTS ARENA hd (E) | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98786.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORTS CRICKET FHD (E) | VIP"  group-title="Unsorted",SKY SPORTS CRICKET FHD (E) | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98785.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORTS CRICKET hd (E) | VIP"  group-title="Unsorted",SKY SPORTS CRICKET hd (E) | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98784.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORTS F1 FHD (E) | VIP"  group-title="Unsorted",SKY SPORTS F1 FHD (E) | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98783.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORTS F1 hd (E) | VIP"  group-title="Unsorted",SKY SPORTS F1 hd (E) | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98782.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORTS FOOTBALL FHD (E) | VIP"  group-title="Unsorted",SKY SPORTS FOOTBALL FHD (E) | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98781.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORTS FOOTBALL hd (E) | VIP"  group-title="Unsorted",SKY SPORTS FOOTBALL hd (E) | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98780.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORTS GOLF FHD (E) | VIP"  group-title="Unsorted",SKY SPORTS GOLF FHD (E) | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98779.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORTS GOLF hd (E) | VIP"  group-title="Unsorted",SKY SPORTS GOLF hd (E) | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98778.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORTS MAIN EVENT FHD (E) | VIP"  group-title="Unsorted",SKY SPORTS MAIN EVENT FHD (E) | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98777.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORTS MAIN EVENT hd (E) | VIP"  group-title="Unsorted",SKY SPORTS MAIN EVENT hd (E) | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98776.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORTS MIX | VIP"  group-title="Unsorted",SKY SPORTS MIX | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98857.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORTS NEWS | VIP"  group-title="Unsorted",SKY SPORTS NEWS | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98801.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORTS PREMIER LEAGUE FHD (E) | VIP"  group-title="Unsorted",SKY SPORTS PREMIER LEAGUE FHD (E) | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98775.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORTS PREMIER LEAGUE hd (E) | VIP"  group-title="Unsorted",SKY SPORTS PREMIER LEAGUE hd (E) | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98774.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY SPORTS RACING FHD (E) | VIP"  group-title="Unsorted",SKY SPORTS RACING FHD (E) | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98773.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="EUROSPORT 1"  group-title="Unsorted",EUROSPORT 1
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/31459.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="EUROSPORT 2"  group-title="Unsorted",EUROSPORT 2
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/31460.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TSN 1"  group-title="Unsorted",TSN 1
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1621.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TSN 2"  group-title="Unsorted",TSN 2
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1622.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TSN 3"  group-title="Unsorted",TSN 3
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1623.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TSN 4"  group-title="Unsorted",TSN 4
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1624.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TSN 5"  group-title="Unsorted",TSN 5
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1625.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SPORTSNET WORLD"  group-title="Unsorted",SPORTSNET WORLD
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1619.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SPORTSNET ONTARIO"  group-title="Unsorted",SPORTSNET ONTARIO
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/25999.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SPORTSNET 360"  group-title="Unsorted",SPORTSNET 360
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/26000.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SPORTSNET ONE"  group-title="Unsorted",SPORTSNET ONE
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/26001.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SPORTSNET PACIFIC"  group-title="Unsorted",SPORTSNET PACIFIC
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/26002.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS ESP (US) Local"  group-title="Unsorted",BEIN SPORTS ESP (US) Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/27685.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORT LA LIGA esp"  group-title="Unsorted",BEIN SPORT LA LIGA esp
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/28014.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORT esp"  group-title="Unsorted",BEIN SPORT esp
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/36412.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS USA Local"  group-title="Unsorted",BEIN SPORTS USA Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1501.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN CONNECT 4 Local"  group-title="Unsorted",BEIN CONNECT 4 Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38455.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN CONNECT 5 Local"  group-title="Unsorted",BEIN CONNECT 5 Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38456.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN CONNECT 6 Local"  group-title="Unsorted",BEIN CONNECT 6 Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38457.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN CONNECT 7 Local"  group-title="Unsorted",BEIN CONNECT 7 Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38458.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN CONNECT 8 Local"  group-title="Unsorted",BEIN CONNECT 8 Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38459.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bee n Sport 1 HD"  group-title="Unsorted",Bee n Sport 1 HD
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89210.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bee n Sport 2 HD"  group-title="Unsorted",Bee n Sport 2 HD
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89209.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bee N Sport 3 HD"  group-title="Unsorted",Bee N Sport 3 HD
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89208.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bee N Sport 4 HD"  group-title="Unsorted",Bee N Sport 4 HD
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89207.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bee n Sports 5"  group-title="Unsorted",Bee n Sports 5
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89206.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bee n Sports 6"  group-title="Unsorted",Bee n Sports 6
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89205.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bee n Sports 7"  group-title="Unsorted",Bee n Sports 7
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89204.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bee N Sport 8 HD"  group-title="Unsorted",Bee N Sport 8 HD
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89203.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bee N Sport 9 HD"  group-title="Unsorted",Bee N Sport 9 HD
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89202.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bee N Sport 10 HD"  group-title="Unsorted",Bee N Sport 10 HD
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89201.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bee N Sport 11 HD"  group-title="Unsorted",Bee N Sport 11 HD
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89200.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bee n Sport 12 HD"  group-title="Unsorted",Bee n Sport 12 HD
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89199.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN CRICKET"  group-title="Unsorted",OSN CRICKET
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95012.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WILLOW 1"  group-title="Unsorted",WILLOW 1
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/92900.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WILLOW 2"  group-title="Unsorted",WILLOW 2
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/92899.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WILLOW 3"  group-title="Unsorted",WILLOW 3
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/92898.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WILLOW 4"  group-title="Unsorted",WILLOW 4
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/92897.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WILLOW 5"  group-title="Unsorted",WILLOW 5
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/92896.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MOTOGP: (EVENTS ONLY)"  group-title="Unsorted",MOTOGP: (EVENTS ONLY)
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/35101.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MOTOGP: ATMOS"  group-title="Unsorted",MOTOGP: ATMOS
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95808.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MOTOGP: HELICOPTER"  group-title="Unsorted",MOTOGP: HELICOPTER
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95807.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MOTOGP: ON BOARD CAMERA 1"  group-title="Unsorted",MOTOGP: ON BOARD CAMERA 1
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95806.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MOTOGP: ON BOARD CAMERA 2"  group-title="Unsorted",MOTOGP: ON BOARD CAMERA 2
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95805.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MOTOGP: ON BOARD CAMERA 3"  group-title="Unsorted",MOTOGP: ON BOARD CAMERA 3
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95804.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MOTOGP: ON BOARD CAMERA 4"  group-title="Unsorted",MOTOGP: ON BOARD CAMERA 4
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95803.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MOTOGP MOVISTAR (ES)"  group-title="Unsorted",MOTOGP MOVISTAR (ES)
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/35099.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MAVTV Local"  group-title="Unsorted",MAVTV Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1267.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PURSUIT CHANNEL | VIP"  group-title="Unsorted",PURSUIT CHANNEL | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/97636.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SPORTSMAN CHANNEL Local"  group-title="Unsorted",SPORTSMAN CHANNEL Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/36070.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HUNT CHANNEL TV Local"  group-title="Unsorted",HUNT CHANNEL TV Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95939.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OUTDOOR CHANNEL"  group-title="Unsorted",OUTDOOR CHANNEL
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/26029.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="World Fishing Network"  group-title="Unsorted",World Fishing Network
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/30261.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OUTSIDE TV Local"  group-title="Unsorted",OUTSIDE TV Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38436.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MOTORTREND Local"  group-title="Unsorted",MOTORTREND Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1452.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MOTORTREND Low BW"  group-title="Unsorted",MOTORTREND Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/86534.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RED BULL TV"  group-title="Unsorted",RED BULL TV
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1757.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PokerGo Live & Replays"  group-title="Unsorted",PokerGo Live & Replays
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98955.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Poker WPT Live & Replays"  group-title="Unsorted",Poker WPT Live & Replays
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98954.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A&E Local"  group-title="Unsorted",A&E Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1307.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A&E BACKUP"  group-title="Unsorted",A&E BACKUP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/33265.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AMC Local"  group-title="Unsorted",AMC Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1317.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AMC Low BW"  group-title="Unsorted",AMC Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/86492.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AMERICAN HEROES CHANNEL Local"  group-title="Unsorted",AMERICAN HEROES CHANNEL Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1681.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AMERICAN HEROES CHANNEL Low BW"  group-title="Unsorted",AMERICAN HEROES CHANNEL Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/87594.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ANIMAL PLANET Local"  group-title="Unsorted",ANIMAL PLANET Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1466.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ANIMAL PLANET Low BW"  group-title="Unsorted",ANIMAL PLANET Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/87593.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ANIMAL PLANET WEST Local"  group-title="Unsorted",ANIMAL PLANET WEST Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/86531.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ANTENNA TV Local"  group-title="Unsorted",ANTENNA TV Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/39211.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AWE Local"  group-title="Unsorted",AWE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89531.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AWE INT Local"  group-title="Unsorted",AWE INT Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/97646.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AXS TV Local"  group-title="Unsorted",AXS TV Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/36608.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BABY FIRST Local"  group-title="Unsorted",BABY FIRST Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95776.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BABY TV Local"  group-title="Unsorted",BABY TV Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38435.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BBC AMERICA Local"  group-title="Unsorted",BBC AMERICA Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1329.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BET Local"  group-title="Unsorted",BET Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1330.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BET Low BW"  group-title="Unsorted",BET Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89162.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BET HER | VIP"  group-title="Unsorted",BET HER | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95936.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BLOOMBERG TV"  group-title="Unsorted",BLOOMBERG TV
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/30274.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BOOMERANG Local"  group-title="Unsorted",BOOMERANG Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1683.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BOOMERANG Low BW"  group-title="Unsorted",BOOMERANG Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/87592.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BOUNCE TV Local"  group-title="Unsorted",BOUNCE TV Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95884.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BRAVO Local"  group-title="Unsorted",BRAVO Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1379.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BRAVO Low BW"  group-title="Unsorted",BRAVO Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/87599.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="C-SPAN"  group-title="Unsorted",C-SPAN
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/30039.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="C-SPAN 2"  group-title="Unsorted",C-SPAN 2
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/30038.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="C-SPAN 3"  group-title="Unsorted",C-SPAN 3
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/30037.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CARTOON NETWORK Local"  group-title="Unsorted",CARTOON NETWORK Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1378.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CARTOON NETWORK Low BW"  group-title="Unsorted",CARTOON NETWORK Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/87598.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CARTOON NETWORK WEST Local"  group-title="Unsorted",CARTOON NETWORK WEST Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38628.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS Action"  group-title="Unsorted",CBS Action
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1654.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS DRAMA"  group-title="Unsorted",CBS DRAMA
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1655.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS REALITY"  group-title="Unsorted",CBS REALITY
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1656.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CHEDDAR BIG NEWS Local"  group-title="Unsorted",CHEDDAR BIG NEWS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90396.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CHEDDAR NEWS Local"  group-title="Unsorted",CHEDDAR NEWS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90395.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CLEO TV Local"  group-title="Unsorted",CLEO TV Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98753.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CMT Local"  group-title="Unsorted",CMT Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1345.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CNBC Local"  group-title="Unsorted",CNBC Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1346.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CNBC WORLD Local"  group-title="Unsorted",CNBC WORLD Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/91153.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CNN Local"  group-title="Unsorted",CNN Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1347.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="COMEDY CENTRAL Local"  group-title="Unsorted",COMEDY CENTRAL Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1679.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="COMET Local"  group-title="Unsorted",COMET Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/91152.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="COOKING CHANNEL Local"  group-title="Unsorted",COOKING CHANNEL Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1259.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="COWBOY CHANNEL"  group-title="Unsorted",COWBOY CHANNEL
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90060.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="COZI TV Local"  group-title="Unsorted",COZI TV Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38429.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CW (CINCI) Local"  group-title="Unsorted",CW (CINCI) Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95870.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CW (KTLA 5) Local"  group-title="Unsorted",CW (KTLA 5) Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98469.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CW (MY50) Local"  group-title="Unsorted",CW (MY50) Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1350.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CW (PIX 11) | VIP"  group-title="Unsorted",CW (PIX 11) | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95915.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DESTINATION AMERICA Local"  group-title="Unsorted",DESTINATION AMERICA Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1462.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY CHANNEL Local"  group-title="Unsorted",DISCOVERY CHANNEL Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/39638.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY CHANNEL Low BW"  group-title="Unsorted",DISCOVERY CHANNEL Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/86501.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY CHANNEL WEST Local"  group-title="Unsorted",DISCOVERY CHANNEL WEST Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1443.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY FAMILY Local"  group-title="Unsorted",DISCOVERY FAMILY Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38619.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY LIFE Local"  group-title="Unsorted",DISCOVERY LIFE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38620.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY SCIENCE Local"  group-title="Unsorted",DISCOVERY SCIENCE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1687.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY TURBO"  group-title="Unsorted",DISCOVERY TURBO
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1692.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISNEY CHANNEL Local"  group-title="Unsorted",DISNEY CHANNEL Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1358.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISNEY CHANNEL Low BW"  group-title="Unsorted",DISNEY CHANNEL Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/87586.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISNEY JR Local"  group-title="Unsorted",DISNEY JR Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1261.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISNEY JR Low BW"  group-title="Unsorted",DISNEY JR Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/86497.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISNEY XD Local"  group-title="Unsorted",DISNEY XD Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1672.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISNEY XD Low BW"  group-title="Unsorted",DISNEY XD Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/87590.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISNEY CHANNEL WEST Local"  group-title="Unsorted",DISNEY CHANNEL WEST Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38627.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISNEY JR WEST Local"  group-title="Unsorted",DISNEY JR WEST Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38626.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISNEY XD WEST Local"  group-title="Unsorted",DISNEY XD WEST Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38625.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DIY Local"  group-title="Unsorted",DIY Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1463.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DOG TV"  group-title="Unsorted",DOG TV
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/92292.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="E! Local"  group-title="Unsorted",E! Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1653.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="E! Low BW"  group-title="Unsorted",E! Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/87591.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="EL REY NETWORK | VIP"  group-title="Unsorted",EL REY NETWORK | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95931.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESCAPE Local"  group-title="Unsorted",ESCAPE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/39212.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOOD NETWORK Local"  group-title="Unsorted",FOOD NETWORK Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/29480.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOOD NETWORK Low BW"  group-title="Unsorted",FOOD NETWORK Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/86494.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FREE SPEECH TV Local"  group-title="Unsorted",FREE SPEECH TV Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90394.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FREEFORM Local"  group-title="Unsorted",FREEFORM Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1677.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FX Local"  group-title="Unsorted",FX Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1364.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FX WEST Local"  group-title="Unsorted",FX WEST Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/85209.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FX MOVIE Local"  group-title="Unsorted",FX MOVIE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/29312.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FXX Local"  group-title="Unsorted",FXX Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1671.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX BUSINESS Local"  group-title="Unsorted",FOX BUSINESS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/27167.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX NEWS Local"  group-title="Unsorted",FOX NEWS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/31684.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FUSE Local"  group-title="Unsorted",FUSE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/29989.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FUSION Local"  group-title="Unsorted",FUSION Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/29988.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FYI"  group-title="Unsorted",FYI
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/31451.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GAME SHOW NETWORK"  group-title="Unsorted",GAME SHOW NETWORK
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1369.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GINX eSPORTS Local"  group-title="Unsorted",GINX eSPORTS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/91154.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GRIT Local"  group-title="Unsorted",GRIT Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1371.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BUZZR"  group-title="Unsorted",BUZZR
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/26760.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PopTV Local"  group-title="Unsorted",PopTV Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1264.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HALLMARK CHANNEL Local"  group-title="Unsorted",HALLMARK CHANNEL Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1375.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HALLMARK CHANNEL Low BW"  group-title="Unsorted",HALLMARK CHANNEL Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/86496.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HALLMARK DRAMA Local"  group-title="Unsorted",HALLMARK DRAMA Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38591.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HALLMARK MOVIES Local"  group-title="Unsorted",HALLMARK MOVIES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1611.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HEROS & ICONS | VIP"  group-title="Unsorted",HEROS & ICONS | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95927.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HGTV Local"  group-title="Unsorted",HGTV Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1589.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HGTV Low BW"  group-title="Unsorted",HGTV Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/86493.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HGTV WEST Local"  group-title="Unsorted",HGTV WEST Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/86533.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HISTORY Local"  group-title="Unsorted",HISTORY Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1386.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HLN Local"  group-title="Unsorted",HLN Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38633.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HORSE TV Local"  group-title="Unsorted",HORSE TV Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96978.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="iBATTLE TV Local"  group-title="Unsorted",iBATTLE TV Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95793.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IFC Local"  group-title="Unsorted",IFC Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1579.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="INSP TV Local"  group-title="Unsorted",INSP TV Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96965.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="INVESTIGATION DISCOVERY Local"  group-title="Unsorted",INVESTIGATION DISCOVERY Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/35716.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="INVESTIGATION DISCOVERY Low BW"  group-title="Unsorted",INVESTIGATION DISCOVERY Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/86500.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="INVESTIGATION DISCOVERY West Local"  group-title="Unsorted",INVESTIGATION DISCOVERY West Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1594.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ION TV Local"  group-title="Unsorted",ION TV Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/28901.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ION TV | VIP"  group-title="Unsorted",ION TV | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/99587.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="LAFF TV Local"  group-title="Unsorted",LAFF TV Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/84190.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="LAW & CRIME Local"  group-title="Unsorted",LAW & CRIME Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/92837.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="LIFETIME Local"  group-title="Unsorted",LIFETIME Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1446.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="LIFETIME MOVIE NETWORK Local"  group-title="Unsorted",LIFETIME MOVIE NETWORK Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/2514.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ME TV EAST Local"  group-title="Unsorted",ME TV EAST Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38431.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MILITARY HISTORY | VIP"  group-title="Unsorted",MILITARY HISTORY | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98998.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MSNBC Local"  group-title="Unsorted",MSNBC Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/30001.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV Local"  group-title="Unsorted",MTV Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1657.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV Low BW"  group-title="Unsorted",MTV Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96160.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MY12 (CHAR NC) Local"  group-title="Unsorted",MY12 (CHAR NC) Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/99436.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MY64 (CINCI) Local"  group-title="Unsorted",MY64 (CINCI) Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/92834.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NAT GEO Local"  group-title="Unsorted",NAT GEO Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1403.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NAT GEO WEST Local"  group-title="Unsorted",NAT GEO WEST Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/77223.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NAT GEO WILD Local"  group-title="Unsorted",NAT GEO WILD Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1784.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NECN Local"  group-title="Unsorted",NECN Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89012.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NEWSMAX 2 Local"  group-title="Unsorted",NEWSMAX 2 Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90393.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NEWSMAX 3 Local"  group-title="Unsorted",NEWSMAX 3 Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90392.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NICKELODEON Local"  group-title="Unsorted",NICKELODEON Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1445.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NICKELODEON | VIP"  group-title="Unsorted",NICKELODEON | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/99586.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NICK JR"  group-title="Unsorted",NICK JR
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1268.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NICKTOONS Local"  group-title="Unsorted",NICKTOONS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1407.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ONE AMERICA NETWORK Local"  group-title="Unsorted",ONE AMERICA NETWORK Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/36607.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OWN Local"  group-title="Unsorted",OWN Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1488.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OXYGEN Local"  group-title="Unsorted",OXYGEN Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1489.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PARAMOUNT NETWORK Local"  group-title="Unsorted",PARAMOUNT NETWORK Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1434.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PARAMOUNT NETWORK Low BW"  group-title="Unsorted",PARAMOUNT NETWORK Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96929.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PBS East"  group-title="Unsorted",PBS East
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/75496.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PBS KIDS"  group-title="Unsorted",PBS KIDS
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/41008.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PEOPLE TV"  group-title="Unsorted",PEOPLE TV
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/40051.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PixL Local"  group-title="Unsorted",PixL Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/99422.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="QVC Local"  group-title="Unsorted",QVC Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/35468.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="REVOLT"  group-title="Unsorted",REVOLT
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/29310.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RIDE TV Local"  group-title="Unsorted",RIDE TV Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/92982.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SMITHSONIAN CHANNEL Local"  group-title="Unsorted",SMITHSONIAN CHANNEL Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/35461.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SONY MOVIE CHANNEL Local"  group-title="Unsorted",SONY MOVIE CHANNEL Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38701.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="START TV Local"  group-title="Unsorted",START TV Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/41306.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SUNDANCETV Local"  group-title="Unsorted",SUNDANCETV Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1435.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SYFY Local"  group-title="Unsorted",SYFY Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1270.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TASTEMADE Local"  group-title="Unsorted",TASTEMADE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95075.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TBS Local"  group-title="Unsorted",TBS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1272.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TBS Low BW"  group-title="Unsorted",TBS Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/87589.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TBS WEST Local"  group-title="Unsorted",TBS WEST Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38621.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TCM Local"  group-title="Unsorted",TCM Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/33103.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TEEN NICK Local"  group-title="Unsorted",TEEN NICK Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/92681.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TEEN NICK | VIP"  group-title="Unsorted",TEEN NICK | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/99585.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="THE COUNTRY NETWORK"  group-title="Unsorted",THE COUNTRY NETWORK
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/30035.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TLC Local"  group-title="Unsorted",TLC Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1667.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TLC WEST Local"  group-title="Unsorted",TLC WEST Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/86532.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TNT Local"  group-title="Unsorted",TNT Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96162.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TNT Low BW"  group-title="Unsorted",TNT Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/87588.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TNT WEST Local"  group-title="Unsorted",TNT WEST Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38622.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRAVEL CHANNEL Local"  group-title="Unsorted",TRAVEL CHANNEL Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/2028.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRU TV Local"  group-title="Unsorted",TRU TV Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1587.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TUFF TV HD (DIRECT)"  group-title="Unsorted",TUFF TV HD (DIRECT)
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/30036.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV LAND Local"  group-title="Unsorted",TV LAND Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1676.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV ONE Local"  group-title="Unsorted",TV ONE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/29307.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA NETWORK Local"  group-title="Unsorted",USA NETWORK Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1449.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA NETWORK Low BW"  group-title="Unsorted",USA NETWORK Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/86495.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA NETWORK WEST Local"  group-title="Unsorted",USA NETWORK WEST Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38623.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UNIVERSAL KIDS Local"  group-title="Unsorted",UNIVERSAL KIDS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38434.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UNIVERSITY OF CALIFORNIA TV Local"  group-title="Unsorted",UNIVERSITY OF CALIFORNIA TV Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96966.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VH1 Local"  group-title="Unsorted",VH1 Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1586.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VH1 Low BW"  group-title="Unsorted",VH1 Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89060.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WE TV Local"  group-title="Unsorted",WE TV Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1593.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VICELAND"  group-title="Unsorted",VICELAND
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1457.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WEATHER CHANNEL"  group-title="Unsorted",WEATHER CHANNEL
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1454.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WEATHER NATION Local"  group-title="Unsorted",WEATHER NATION Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90389.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WGN CHICAGO Local"  group-title="Unsorted",WGN CHICAGO Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/99457.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WGN 9 (CHI) Local"  group-title="Unsorted",WGN 9 (CHI) Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95011.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WGN AMERICA LOCAL"  group-title="Unsorted",WGN AMERICA LOCAL
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/99458.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO Local"  group-title="Unsorted",HBO Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1265.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO Low BW"  group-title="Unsorted",HBO Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/87596.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO WEST Local"  group-title="Unsorted",HBO WEST Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/77224.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO 2 | VIP"  group-title="Unsorted",HBO 2 | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95926.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO COMEDY Local"  group-title="Unsorted",HBO COMEDY Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1465.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO FAMILY | VIP"  group-title="Unsorted",HBO FAMILY | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95925.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO SIGNATURE Local"  group-title="Unsorted",HBO SIGNATURE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/2515.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO SIGNATURE Low BW"  group-title="Unsorted",HBO SIGNATURE Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89058.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO ZONE | VIP"  group-title="Unsorted",HBO ZONE | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95924.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CINEMAX Local"  group-title="Unsorted",CINEMAX Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1282.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CINEMAX Low BW"  group-title="Unsorted",CINEMAX Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/87597.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CINEMAX WEST Local"  group-title="Unsorted",CINEMAX WEST Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38700.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CINEMAX 5STAR MAX Local"  group-title="Unsorted",CINEMAX 5STAR MAX Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89057.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CINEMAX 5STAR MAX Low BW"  group-title="Unsorted",CINEMAX 5STAR MAX Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89056.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CINEMAX ACTIONMAX | VIP"  group-title="Unsorted",CINEMAX ACTIONMAX | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95935.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CINEMAX MORE MAX | VIP"  group-title="Unsorted",CINEMAX MORE MAX | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95932.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CINEMAX MOVIEMAX Local"  group-title="Unsorted",CINEMAX MOVIEMAX Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90706.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CINEMAX MOVIEMAX | VIP"  group-title="Unsorted",CINEMAX MOVIEMAX | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/99584.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CINEMAX OUTERMAX | VIP"  group-title="Unsorted",CINEMAX OUTERMAX | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95934.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CINEMAX THRILLERMAX | VIP"  group-title="Unsorted",CINEMAX THRILLERMAX | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95933.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="REELZ | VIP"  group-title="Unsorted",REELZ | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95923.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SHOWTIME Local"  group-title="Unsorted",SHOWTIME Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1580.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SHOWTIME Low BW"  group-title="Unsorted",SHOWTIME Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/87595.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SHOWTIME WEST Local"  group-title="Unsorted",SHOWTIME WEST Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/39223.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SHOWTIME 2 | VIP"  group-title="Unsorted",SHOWTIME 2 | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95922.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SHOWTIME BEYOND Local"  group-title="Unsorted",SHOWTIME BEYOND Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90710.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SHOWTIME BEYOND Low BW"  group-title="Unsorted",SHOWTIME BEYOND Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96930.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SHOWTIME EXTREME | VIP"  group-title="Unsorted",SHOWTIME EXTREME | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95921.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SHOWTIME FAMILY ZONE | VIP"  group-title="Unsorted",SHOWTIME FAMILY ZONE | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/99421.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SHOWTIME NEXT Local"  group-title="Unsorted",SHOWTIME NEXT Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89082.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SHOWTIME NEXT Low BW"  group-title="Unsorted",SHOWTIME NEXT Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96931.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SHOWTIME SHOWCASE Local"  group-title="Unsorted",SHOWTIME SHOWCASE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1421.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SHOWTIME SHOWCASE Low BW"  group-title="Unsorted",SHOWTIME SHOWCASE Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89061.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SHOWTIME WOMEN | VIP"  group-title="Unsorted",SHOWTIME WOMEN | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/97654.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STARZ Local"  group-title="Unsorted",STARZ Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1271.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STARZ | VIP"  group-title="Unsorted",STARZ | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95920.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STARZ CINEMA | VIP"  group-title="Unsorted",STARZ CINEMA | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/97655.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STARZ COMEDY | VIP"  group-title="Unsorted",STARZ COMEDY | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95919.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STARZ EDGE | VIP"  group-title="Unsorted",STARZ EDGE | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95918.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STARZ ENCORE Local"  group-title="Unsorted",STARZ ENCORE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/94991.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STARZ ENCORE | VIP"  group-title="Unsorted",STARZ ENCORE | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95917.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STARZ ENCORE ACTION Local"  group-title="Unsorted",STARZ ENCORE ACTION Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95801.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STARZ ENCORE ACTION | VIP"  group-title="Unsorted",STARZ ENCORE ACTION | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/99583.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STARZ ENCORE BLACK | VIP"  group-title="Unsorted",STARZ ENCORE BLACK | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/97580.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STARZ ENCORE CLASSIC Local"  group-title="Unsorted",STARZ ENCORE CLASSIC Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95873.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STARZ ENCORE CLASSIC | VIP"  group-title="Unsorted",STARZ ENCORE CLASSIC | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/99582.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STARZ ENCORE FAMILY | VIP"  group-title="Unsorted",STARZ ENCORE FAMILY | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/97581.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STARZ ENCORE WESTERNS Local"  group-title="Unsorted",STARZ ENCORE WESTERNS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/92315.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STARZ ENCORE SUSPENSE Local"  group-title="Unsorted",STARZ ENCORE SUSPENSE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95802.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STARZ ENCORE SUSPENSE | VIP"  group-title="Unsorted",STARZ ENCORE SUSPENSE | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/99581.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STARZ IN BLACK Local"  group-title="Unsorted",STARZ IN BLACK Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89055.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STARZ IN BLACK Low BW"  group-title="Unsorted",STARZ IN BLACK Low BW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89054.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STARZ KIDS & FAMILY | VIP"  group-title="Unsorted",STARZ KIDS & FAMILY | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95916.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="THE MOVIE CHANNEL Local"  group-title="Unsorted",THE MOVIE CHANNEL Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96959.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="EPIX Local"  group-title="Unsorted",EPIX Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="EPIX | VIP"  group-title="Unsorted",EPIX | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95929.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="EPIX 2 Local"  group-title="Unsorted",EPIX 2 Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98755.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="EPIX 2 | VIP"  group-title="Unsorted",EPIX 2 | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95930.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="EPIX DRIVE-IN Local"  group-title="Unsorted",EPIX DRIVE-IN Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95872.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="EPIX DRIVE-IN | VIP"  group-title="Unsorted",EPIX DRIVE-IN | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/99588.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="EPIX HITS Local"  group-title="Unsorted",EPIX HITS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38629.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY ARTS"  group-title="Unsorted",SKY ARTS
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/2408.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY CINEMA ACTION | VIP"  group-title="Unsorted",SKY CINEMA ACTION | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98800.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY CINEMA COMEDY | VIP"  group-title="Unsorted",SKY CINEMA COMEDY | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98799.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY CINEMA DISNEY | VIP"  group-title="Unsorted",SKY CINEMA DISNEY | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98798.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY CINEMA DRAMA | VIP"  group-title="Unsorted",SKY CINEMA DRAMA | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98797.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY CINEMA FAMILY | VIP"  group-title="Unsorted",SKY CINEMA FAMILY | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98796.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY CINEMA GREATS | VIP"  group-title="Unsorted",SKY CINEMA GREATS | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98795.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY CINEMA HITS | VIP"  group-title="Unsorted",SKY CINEMA HITS | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98794.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY CINEMA PREMIER | VIP"  group-title="Unsorted",SKY CINEMA PREMIER | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98793.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY CINEMA SCI-FI HORROR | VIP"  group-title="Unsorted",SKY CINEMA SCI-FI HORROR | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98792.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY CINEMA SELECT | VIP"  group-title="Unsorted",SKY CINEMA SELECT | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98791.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY CINEMA THRILLER | VIP"  group-title="Unsorted",SKY CINEMA THRILLER | VIP
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98790.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RELATIONSHIP TV Local"  group-title="Unsorted",RELATIONSHIP TV Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95787.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 MIKE TYSON Local"  group-title="Unsorted",24/7 MIKE TYSON Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/92323.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 SUPERBOWLS Local"  group-title="Unsorted",24/7 SUPERBOWLS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/80392.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 247RETRO Local"  group-title="Unsorted",24/7 247RETRO Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/91808.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 A DIFFERENT WORLD"  group-title="Unsorted",24/7 A DIFFERENT WORLD
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/88819.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 A NIGHTMARE ON ELM ST Local"  group-title="Unsorted",24/7 A NIGHTMARE ON ELM ST Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/92322.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 ADAM SANDLER Local"  group-title="Unsorted",24/7 ADAM SANDLER Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/99440.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 ADVENTURES OF PETE & PETE Local"  group-title="Unsorted",24/7 ADVENTURES OF PETE & PETE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/81829.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 ALADDIN Local"  group-title="Unsorted",24/7 ALADDIN Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89375.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 ALADDIN MOVIES Local"  group-title="Unsorted",24/7 ALADDIN MOVIES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95940.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 ALIEN MOVIES Local"  group-title="Unsorted",24/7 ALIEN MOVIES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/97593.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 ALVIN & THE CHIPMUNKS"  group-title="Unsorted",24/7 ALVIN & THE CHIPMUNKS
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95908.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 AMERICAN DAD Local"  group-title="Unsorted",24/7 AMERICAN DAD Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/91805.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 AMERICAN HORROR STORY Local"  group-title="Unsorted",24/7 AMERICAN HORROR STORY Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/84564.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 AMERICAN PICKERS Local"  group-title="Unsorted",24/7 AMERICAN PICKERS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/84373.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 AMERICAN PIE Local"  group-title="Unsorted",24/7 AMERICAN PIE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/92975.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 ANCIENT ALIENS"  group-title="Unsorted",24/7 ANCIENT ALIENS
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38689.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 ANDY GRIFFITH SHOW Local"  group-title="Unsorted",24/7 ANDY GRIFFITH SHOW Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/73957.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 ANIMANIACS Local"  group-title="Unsorted",24/7 ANIMANIACS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90749.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 ARE YOU AFRAID OF THE DARK Local"  group-title="Unsorted",24/7 ARE YOU AFRAID OF THE DARK Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/75597.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 ARNOLD SCHWARZENEGGER Local"  group-title="Unsorted",24/7 ARNOLD SCHWARZENEGGER Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89371.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 ARROW Local"  group-title="Unsorted",24/7 ARROW Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/83627.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 AUSTIN POWERS MOVIES"  group-title="Unsorted",24/7 AUSTIN POWERS MOVIES
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/88818.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 BACK TO THE FUTURE Local"  group-title="Unsorted",24/7 BACK TO THE FUTURE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89369.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 BANSHEE Local"  group-title="Unsorted",24/7 BANSHEE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/82290.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 BATMAN"  group-title="Unsorted",24/7 BATMAN
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38657.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 BATMAN THE ANIMATED SERIES Local"  group-title="Unsorted",24/7 BATMAN THE ANIMATED SERIES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90835.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 BAYWATCH Local"  group-title="Unsorted",24/7 BAYWATCH Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/92276.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 BERNIE MAC SHOW Local"  group-title="Unsorted",24/7 BERNIE MAC SHOW Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/73958.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 BEVERLY HILLS COP Local"  group-title="Unsorted",24/7 BEVERLY HILLS COP Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98419.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 BIG BANG THEORY"  group-title="Unsorted",24/7 BIG BANG THEORY
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38683.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 BLAZE AND THE MONSTER MACHINES"  group-title="Unsorted",24/7 BLAZE AND THE MONSTER MACHINES
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38691.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 BOBS BURGERS Local"  group-title="Unsorted",24/7 BOBS BURGERS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/92359.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 BONANZA Local"  group-title="Unsorted",24/7 BONANZA Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/92285.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 BOY MEETS WORLD Local"  group-title="Unsorted",24/7 BOY MEETS WORLD Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/73959.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 BRUCE LEE Local"  group-title="Unsorted",24/7 BRUCE LEE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90179.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 BRUCE WILLIS Local"  group-title="Unsorted",24/7 BRUCE WILLIS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90367.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 CAPTAIN N THE GAME MASTER Local"  group-title="Unsorted",24/7 CAPTAIN N THE GAME MASTER Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90868.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 CHARLIES ANGELES"  group-title="Unsorted",24/7 CHARLIES ANGELES
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95909.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 CHARMED"  group-title="Unsorted",24/7 CHARMED
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38472.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 CHIP N DALE RESCUE RANGERS Local"  group-title="Unsorted",24/7 CHIP N DALE RESCUE RANGERS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90869.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 COLUMBO"  group-title="Unsorted",24/7 COLUMBO
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/35155.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 COPS Local"  group-title="Unsorted",24/7 COPS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/84217.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 CRIMINAL MINDS Local"  group-title="Unsorted",24/7 CRIMINAL MINDS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/84166.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 CSI Local"  group-title="Unsorted",24/7 CSI Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/73965.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 CSI MIAMI Local"  group-title="Unsorted",24/7 CSI MIAMI Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/77220.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 CURB YOUR ENTHUSIASM Local"  group-title="Unsorted",24/7 CURB YOUR ENTHUSIASM Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/73982.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 DALLAS Local"  group-title="Unsorted",24/7 DALLAS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/73980.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 DARKWING DUCK Local"  group-title="Unsorted",24/7 DARKWING DUCK Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90870.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 DAWSONS CREEK Local"  group-title="Unsorted",24/7 DAWSONS CREEK Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/82122.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 DENZEL WASHINGTON Local"  group-title="Unsorted",24/7 DENZEL WASHINGTON Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90173.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 DESPERATE HOUSEWIVES Local"  group-title="Unsorted",24/7 DESPERATE HOUSEWIVES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/77457.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 DEXTERS LABORATORY"  group-title="Unsorted",24/7 DEXTERS LABORATORY
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95910.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 DIFF'RENT STROKES Local"  group-title="Unsorted",24/7 DIFF'RENT STROKES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/85271.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 DINERS DRIVE INS & DIVES Local"  group-title="Unsorted",24/7 DINERS DRIVE INS & DIVES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/77101.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 DOOGIE HOWSER M.D. Local"  group-title="Unsorted",24/7 DOOGIE HOWSER M.D. Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/75648.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 DOUG Local"  group-title="Unsorted",24/7 DOUG Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/81931.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 DUCKTALES Local"  group-title="Unsorted",24/7 DUCKTALES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/99159.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 DWAYNE JOHNSON Local"  group-title="Unsorted",24/7 DWAYNE JOHNSON Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98377.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 DYNASTY Local"  group-title="Unsorted",24/7 DYNASTY Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/77219.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 EASTBOUND & DOWN Local"  group-title="Unsorted",24/7 EASTBOUND & DOWN Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/77488.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 EDDIE MURPHY Local"  group-title="Unsorted",24/7 EDDIE MURPHY Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98765.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 EVERYBODY HATES CHRIS Local"  group-title="Unsorted",24/7 EVERYBODY HATES CHRIS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/85272.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 Everybody Loves Raymond"  group-title="Unsorted",24/7 Everybody Loves Raymond
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/75500.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 FAMILY MATTERS Local"  group-title="Unsorted",24/7 FAMILY MATTERS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/73961.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 FAST N FURIOUS Local"  group-title="Unsorted",24/7 FAST N FURIOUS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/91786.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 FLINTSTONES Local"  group-title="Unsorted",24/7 FLINTSTONES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/91787.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 FLIPPER Local"  group-title="Unsorted",24/7 FLIPPER Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96964.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 FRAGGLE ROCK"  group-title="Unsorted",24/7 FRAGGLE ROCK
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38654.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 FRIDAY THE 13TH Local"  group-title="Unsorted",24/7 FRIDAY THE 13TH Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/86689.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 FRIENDS"  group-title="Unsorted",24/7 FRIENDS
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/31228.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 FRINGE Local"  group-title="Unsorted",24/7 FRINGE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/83159.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 FULL HOUSE Local"  group-title="Unsorted",24/7 FULL HOUSE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/83782.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 FUTURAMA"  group-title="Unsorted",24/7 FUTURAMA
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38675.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 GAME OF THRONES Local"  group-title="Unsorted",24/7 GAME OF THRONES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/88154.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 GARFIELD & FRIENDS Local"  group-title="Unsorted",24/7 GARFIELD & FRIENDS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90871.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 GARGOYLES"  group-title="Unsorted",24/7 GARGOYLES
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95911.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 GILLIGANS ISLAND Local"  group-title="Unsorted",24/7 GILLIGANS ISLAND Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/73966.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 GILMORE GIRLS"  group-title="Unsorted",24/7 GILMORE GIRLS
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95912.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 GIRLFRIENDS Local"  group-title="Unsorted",24/7 GIRLFRIENDS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/82102.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7  GOLDEN GIRLS"  group-title="Unsorted",24/7  GOLDEN GIRLS
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/35154.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 GOMER PYLE Local"  group-title="Unsorted",24/7 GOMER PYLE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/77770.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 GOOD LUCK CHARLIE Local"  group-title="Unsorted",24/7 GOOD LUCK CHARLIE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/99166.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 GREEN ACRES"  group-title="Unsorted",24/7 GREEN ACRES
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95904.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 GREYS ANATOMY Local"  group-title="Unsorted",24/7 GREYS ANATOMY Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/73968.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 Growing Pains"  group-title="Unsorted",24/7 Growing Pains
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/97405.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 HALLOWEEN Local"  group-title="Unsorted",24/7 HALLOWEEN Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/92312.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 HANNAH MONTANA Local"  group-title="Unsorted",24/7 HANNAH MONTANA Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96906.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 HAPPY DAYS"  group-title="Unsorted",24/7 HAPPY DAYS
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/58713.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 HARDCORE PAWN"  group-title="Unsorted",24/7 HARDCORE PAWN
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95896.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 HARRISON FORD Local"  group-title="Unsorted",24/7 HARRISON FORD Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90688.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 HARRY POTTER Local"  group-title="Unsorted",24/7 HARRY POTTER Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/73960.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 HE-MAN"  group-title="Unsorted",24/7 HE-MAN
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38652.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 HE-MAN & THE MASTERS OF THE UNIVERSE"  group-title="Unsorted",24/7 HE-MAN & THE MASTERS OF THE UNIVERSE
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38651.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 HEY DUDE Local"  group-title="Unsorted",24/7 HEY DUDE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/81932.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 HERCULES THE LEGENDARY JOURNEYS Local"  group-title="Unsorted",24/7 HERCULES THE LEGENDARY JOURNEYS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/80644.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7  HOGAN'S HEROERS"  group-title="Unsorted",24/7  HOGAN'S HEROERS
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/35153.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 HOBBIT LOTR Local"  group-title="Unsorted",24/7 HOBBIT LOTR Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90178.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 HOME IMPROVEMENT"  group-title="Unsorted",24/7 HOME IMPROVEMENT
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95899.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 HOMELAND Local"  group-title="Unsorted",24/7 HOMELAND Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/83182.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 HOUSE MD Local"  group-title="Unsorted",24/7 HOUSE MD Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/73954.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7  HOW I MET YOUR MOTHER"  group-title="Unsorted",24/7  HOW I MET YOUR MOTHER
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95901.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 IMAX DOCUMENTARY COLLECTION Local"  group-title="Unsorted",24/7 IMAX DOCUMENTARY COLLECTION Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/85277.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 IMPRACTICAL JOKERS Local"  group-title="Unsorted",24/7 IMPRACTICAL JOKERS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/85257.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 INK MASTER Local"  group-title="Unsorted",24/7 INK MASTER Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/77221.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 INSPECTOR GADGET"  group-title="Unsorted",24/7 INSPECTOR GADGET
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38650.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 JAMES BOND 007 MOVIES Local"  group-title="Unsorted",24/7 JAMES BOND 007 MOVIES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96917.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 JAMIE FOXX SHOW Local"  group-title="Unsorted",24/7 JAMIE FOXX SHOW Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/73962.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 JURASSIC PARK MOVIES Local"  group-title="Unsorted",24/7 JURASSIC PARK MOVIES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96916.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 KEANU REEVES Local"  group-title="Unsorted",24/7 KEANU REEVES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90839.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 KEVIN COSTNER Local"  group-title="Unsorted",24/7 KEVIN COSTNER Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90362.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 KING OF QUEENS"  group-title="Unsorted",24/7 KING OF QUEENS
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/59559.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 KUNG-FU Local"  group-title="Unsorted",24/7 KUNG-FU Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98476.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 LAS VEGAS Local"  group-title="Unsorted",24/7 LAS VEGAS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/73964.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 LAST MAN STANDING Local"  group-title="Unsorted",24/7 LAST MAN STANDING Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/84954.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 LEONARDO DiCAPRIO Local"  group-title="Unsorted",24/7 LEONARDO DiCAPRIO Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90172.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 LETHAL WEAPON MOVIES Local"  group-title="Unsorted",24/7 LETHAL WEAPON MOVIES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96909.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 LIAM NEESON MOVIES Local"  group-title="Unsorted",24/7 LIAM NEESON MOVIES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96198.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 LION KING MOVIES Local"  group-title="Unsorted",24/7 LION KING MOVIES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95941.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7  LITTLE HOUSE ON THE PRAIRIE"  group-title="Unsorted",24/7  LITTLE HOUSE ON THE PRAIRIE
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/35152.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 LIVE PD Local"  group-title="Unsorted",24/7 LIVE PD Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/73955.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 LIVING SINGLE Local"  group-title="Unsorted",24/7 LIVING SINGLE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/73775.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 LOONEY TUNES"  group-title="Unsorted",24/7 LOONEY TUNES
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38673.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 LONGMIRE Local"  group-title="Unsorted",24/7 LONGMIRE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/84039.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 MACGYVER Local"  group-title="Unsorted",24/7 MACGYVER Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/80532.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 MAGNUM P.I. Local"  group-title="Unsorted",24/7 MAGNUM P.I. Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/77575.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 MAJOR LEAGUE MOVIES Local"  group-title="Unsorted",24/7 MAJOR LEAGUE MOVIES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96202.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 MALCOLM IN THE MIDDLE"  group-title="Unsorted",24/7 MALCOLM IN THE MIDDLE
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38672.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 MARRIED WITH CHILDREN"  group-title="Unsorted",24/7 MARRIED WITH CHILDREN
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38421.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 MARTIN Local"  group-title="Unsorted",24/7 MARTIN Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/73263.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 MARVEL INFINITY WARS Local"  group-title="Unsorted",24/7 MARVEL INFINITY WARS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90689.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 MASH Local"  group-title="Unsorted",24/7 MASH Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98173.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 MIAMI VICE Local"  group-title="Unsorted",24/7 MIAMI VICE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/77577.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 MICKEY MOUSE Local"  group-title="Unsorted",24/7 MICKEY MOUSE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/99169.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 MICKEY MOUSE HOUSE OF MOUSE Local"  group-title="Unsorted",24/7 MICKEY MOUSE HOUSE OF MOUSE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/99168.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 MICKEY MOUSE MOVIES Local"  group-title="Unsorted",24/7 MICKEY MOUSE MOVIES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/99167.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 MIGHTY MAX"  group-title="Unsorted",24/7 MIGHTY MAX
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95905.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 MISTER ED Local"  group-title="Unsorted",24/7 MISTER ED Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/73975.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 MOESHA Local"  group-title="Unsorted",24/7 MOESHA Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/73978.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 MR ROBOT Local"  group-title="Unsorted",24/7 MR ROBOT Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/91754.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 MUPPET BABIES Local"  group-title="Unsorted",24/7 MUPPET BABIES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/92752.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 MY GHOST STORYS"  group-title="Unsorted",24/7 MY GHOST STORYS
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38671.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 MY WIFE AND KIDS Local"  group-title="Unsorted",24/7 MY WIFE AND KIDS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/85273.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 Night Court"  group-title="Unsorted",24/7 Night Court
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/89366.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 NORTHERN EXPOSURE Local"  group-title="Unsorted",24/7 NORTHERN EXPOSURE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/82392.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 ONE TREE HILL"  group-title="Unsorted",24/7 ONE TREE HILL
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95897.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 PAW Patrol"  group-title="Unsorted",24/7 PAW Patrol
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/26762.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 PEPPA PIG"  group-title="Unsorted",24/7 PEPPA PIG
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/28908.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 PERFECT STRANGERS Local"  group-title="Unsorted",24/7 PERFECT STRANGERS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/92382.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 Pimp My Ride"  group-title="Unsorted",24/7 Pimp My Ride
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/97404.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 PIRATES OF THE CARIBBEAN MOVIES Local"  group-title="Unsorted",24/7 PIRATES OF THE CARIBBEAN MOVIES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96912.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 PJ MASKS"  group-title="Unsorted",24/7 PJ MASKS
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/41465.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 PLANET OF THE APES MOVIES"  group-title="Unsorted",24/7 PLANET OF THE APES MOVIES
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/88808.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 POWER"  group-title="Unsorted",24/7 POWER
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/28907.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 PREDATOR MOVIES Local"  group-title="Unsorted",24/7 PREDATOR MOVIES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/97594.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 PRISON BREAK Local"  group-title="Unsorted",24/7 PRISON BREAK Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98174.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 PROPERTY BROTHERS"  group-title="Unsorted",24/7 PROPERTY BROTHERS
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/88807.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 QUANTUM LEAP Local"  group-title="Unsorted",24/7 QUANTUM LEAP Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/73967.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 RAY DONOVAN Local"  group-title="Unsorted",24/7 RAY DONOVAN Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/82692.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 RESIDENT EVIL MOVIES Local"  group-title="Unsorted",24/7 RESIDENT EVIL MOVIES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96957.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 RICK & MORTY"  group-title="Unsorted",24/7 RICK & MORTY
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38670.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 RIDICULOUSNESS Local"  group-title="Unsorted",24/7 RIDICULOUSNESS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/85433.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 ROCKY CREED MOVIES Local"  group-title="Unsorted",24/7 ROCKY CREED MOVIES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/97427.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7  ROSEANNE"  group-title="Unsorted",24/7  ROSEANNE
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/35151.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 SABRINA THE TEENAGE WITCH Local"  group-title="Unsorted",24/7 SABRINA THE TEENAGE WITCH Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/80305.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 SALUTE YOUR SHORTS Local"  group-title="Unsorted",24/7 SALUTE YOUR SHORTS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/81828.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 SANDRA BULLOCK Local"  group-title="Unsorted",24/7 SANDRA BULLOCK Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96956.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 SANFORD & SON Local"  group-title="Unsorted",24/7 SANFORD & SON Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/73788.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 SAVED BY THE BELL Local"  group-title="Unsorted",24/7 SAVED BY THE BELL Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/73969.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 SAW Local"  group-title="Unsorted",24/7 SAW Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/86675.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 SCOOBY DOO Local"  group-title="Unsorted",24/7 SCOOBY DOO Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90886.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 SCOOBY DOO MOVIES Local"  group-title="Unsorted",24/7 SCOOBY DOO MOVIES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90885.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 SCREAM Local"  group-title="Unsorted",24/7 SCREAM Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/86707.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 SEINFELD"  group-title="Unsorted",24/7 SEINFELD
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38419.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 SEX AND THE CITY"  group-title="Unsorted",24/7 SEX AND THE CITY
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38420.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 SCRUBS"  group-title="Unsorted",24/7 SCRUBS
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/58715.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 SGU STARGATE UNIVERSE"  group-title="Unsorted",24/7 SGU STARGATE UNIVERSE
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38669.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 SHREK Local"  group-title="Unsorted",24/7 SHREK Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98400.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 SIMPSONS"  group-title="Unsorted",24/7 SIMPSONS
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38688.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 SOUTH PARK"  group-title="Unsorted",24/7 SOUTH PARK
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38687.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 SMALLVILLE Local"  group-title="Unsorted",24/7 SMALLVILLE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/82950.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 SPIDER-MAN ANIMATED SERIES Local"  group-title="Unsorted",24/7 SPIDER-MAN ANIMATED SERIES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98349.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 SPONGEBOB SQUAREPANTS"  group-title="Unsorted",24/7 SPONGEBOB SQUAREPANTS
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38668.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 ST ELSEWHERE Local"  group-title="Unsorted",24/7 ST ELSEWHERE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/85278.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 STAR TREK NEXT GENERATION Local"  group-title="Unsorted",24/7 STAR TREK NEXT GENERATION Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98346.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 STAR TREK ORIGINAL SERIES Local"  group-title="Unsorted",24/7 STAR TREK ORIGINAL SERIES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98347.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 STAR TREK MOVIES Local"  group-title="Unsorted",24/7 STAR TREK MOVIES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96921.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 STAR WARS Local"  group-title="Unsorted",24/7 STAR WARS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98999.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 STAR WARS REBELS Local"  group-title="Unsorted",24/7 STAR WARS REBELS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/99170.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 STARGATE ATLANTIS"  group-title="Unsorted",24/7 STARGATE ATLANTIS
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38667.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 STARSKY & HUTCH"  group-title="Unsorted",24/7 STARSKY & HUTCH
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/73262.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 STEP BY STEP Local"  group-title="Unsorted",24/7 STEP BY STEP Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/81821.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 STEPHEN KING MOVIES Local"  group-title="Unsorted",24/7 STEPHEN KING MOVIES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/84652.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 STRANGER THINGS Local"  group-title="Unsorted",24/7 STRANGER THINGS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98138.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 STREET OUTLAWS Local"  group-title="Unsorted",24/7 STREET OUTLAWS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/85436.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 SUITE LIFE OF ZACH & CODY Local"  group-title="Unsorted",24/7 SUITE LIFE OF ZACH & CODY Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/99171.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 SUPER MARIO BROS  Local"  group-title="Unsorted",24/7 SUPER MARIO BROS  Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90887.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 TALES FROM THE CRYPT"  group-title="Unsorted",24/7 TALES FROM THE CRYPT
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38648.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 TALESPIN Local"  group-title="Unsorted",24/7 TALESPIN Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90750.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 TAXI Local"  group-title="Unsorted",24/7 TAXI Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/85276.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 THE AMAZING WORLD OF GUMBALL"  group-title="Unsorted",24/7 THE AMAZING WORLD OF GUMBALL
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95914.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7  THE BEVERLY HILLBILLIES"  group-title="Unsorted",24/7  THE BEVERLY HILLBILLIES
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/35149.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 THE CARE BEARS"  group-title="Unsorted",24/7 THE CARE BEARS
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38647.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 THE CURSE OF OAK ISLAND Local"  group-title="Unsorted",24/7 THE CURSE OF OAK ISLAND Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/83393.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 THE FIRST 48 Local"  group-title="Unsorted",24/7 THE FIRST 48 Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/79949.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 THE FLASH Local"  group-title="Unsorted",24/7 THE FLASH Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/83395.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 THE FRESH PRINCE OF BEL-AIR"  group-title="Unsorted",24/7 THE FRESH PRINCE OF BEL-AIR
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38666.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7  THE JEFFERSONS"  group-title="Unsorted",24/7  THE JEFFERSONS
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/35148.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 THE JETSONS"  group-title="Unsorted",24/7 THE JETSONS
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38645.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 THE LEAGUE Local"  group-title="Unsorted",24/7 THE LEAGUE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/82688.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 THE MARY TYLER MOORE SHOW"  group-title="Unsorted",24/7 THE MARY TYLER MOORE SHOW
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95913.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 THE MUNSTERS"  group-title="Unsorted",24/7 THE MUNSTERS
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/95907.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 THE NANNY Local"  group-title="Unsorted",24/7 THE NANNY Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/85261.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 THE OFFICE Local"  group-title="Unsorted",24/7 THE OFFICE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/99459.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 THE REAL GHOSTBUSTERS Local"  group-title="Unsorted",24/7 THE REAL GHOSTBUSTERS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/91827.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 THE VAMPIRE DIARIES Local"  group-title="Unsorted",24/7 THE VAMPIRE DIARIES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/84035.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 THE WALKING DEAD"  group-title="Unsorted",24/7 THE WALKING DEAD
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38665.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 THE WAYANS BROS Local"  group-title="Unsorted",24/7 THE WAYANS BROS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/73976.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 THE WIRE Local"  group-title="Unsorted",24/7 THE WIRE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/84105.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 THE WONDER YEARS Local"  group-title="Unsorted",24/7 THE WONDER YEARS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/73977.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 THOMAS THE TANK ENGINE & FRIENDS Local"  group-title="Unsorted",24/7 THOMAS THE TANK ENGINE & FRIENDS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90884.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 THREE STOOGES"  group-title="Unsorted",24/7 THREE STOOGES
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/32669.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 THREES COMPANY Local"  group-title="Unsorted",24/7 THREES COMPANY Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98176.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 THUNDERCATS"  group-title="Unsorted",24/7 THUNDERCATS
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/1693.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 TMNT 1987"  group-title="Unsorted",24/7 TMNT 1987
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38646.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 TOM CRUISE Local"  group-title="Unsorted",24/7 TOM CRUISE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90177.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 TOM HANKS MOVIES Local"  group-title="Unsorted",24/7 TOM HANKS MOVIES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/97647.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 TOM & JERRY"  group-title="Unsorted",24/7 TOM & JERRY
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38664.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 TOM & JERRY TALES"  group-title="Unsorted",24/7 TOM & JERRY TALES
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38644.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 TOP GEAR"  group-title="Unsorted",24/7 TOP GEAR
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38663.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 TOY STORY MOVIES Local"  group-title="Unsorted",24/7 TOY STORY MOVIES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/97572.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 TRANSFORMERS Local"  group-title="Unsorted",24/7 TRANSFORMERS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90358.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 TRUE BLOOD Local"  group-title="Unsorted",24/7 TRUE BLOOD Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/84036.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 TWILIGHT ZONE"  group-title="Unsorted",24/7 TWILIGHT ZONE
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/38662.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 VAN DAMME Local"  group-title="Unsorted",24/7 VAN DAMME Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/97428.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 VICE PRINCIPALS Local"  group-title="Unsorted",24/7 VICE PRINCIPALS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/77576.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 VIN DIESEL MOVIES Local"  group-title="Unsorted",24/7 VIN DIESEL MOVIES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96324.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 WAGON TRAIN Local"  group-title="Unsorted",24/7 WAGON TRAIN Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/85434.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 WEBSTER Local"  group-title="Unsorted",24/7 WEBSTER Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/85270.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 WEEDS Local"  group-title="Unsorted",24/7 WEEDS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/83780.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 WESTERNS Local"  group-title="Unsorted",24/7 WESTERNS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/82292.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 WESTWORLD Local"  group-title="Unsorted",24/7 WESTWORLD Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96947.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 WHATS HAPPENING Local"  group-title="Unsorted",24/7 WHATS HAPPENING Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/85274.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 WHOS THE BOSS Local"  group-title="Unsorted",24/7 WHOS THE BOSS Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/82104.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 WILL & GRACE Local"  group-title="Unsorted",24/7 WILL & GRACE Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/98348.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 WILL SMITH Local"  group-title="Unsorted",24/7 WILL SMITH Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90450.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 WKRP IN CINCINNATI"  group-title="Unsorted",24/7 WKRP IN CINCINNATI
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/85198.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 WWE SUMMER SLAM Local"  group-title="Unsorted",24/7 WWE SUMMER SLAM Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/80142.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 WWE WRESTLEMANIA Local"  group-title="Unsorted",24/7 WWE WRESTLEMANIA Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/85437.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 X-MEN ANIMATED SERIES Local"  group-title="Unsorted",24/7 X-MEN ANIMATED SERIES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/90748.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 X-MEN MOVIES Local"  group-title="Unsorted",24/7 X-MEN MOVIES Local
+http://207.244.78.104:826/live/Czr5pfbbP/xbuvW2HEu4/96908.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24/7 XENA WARRIOR PRINCESS Local"  group-title="Unsorted",24/7 XENA WARRIOR PRINCESS Local
+http://207.244.78.104:826/live/Czr5pfbbP/
+
